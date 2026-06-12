@@ -8,7 +8,6 @@ Quick start
 
 ```bash
 npm install
-
 ```
 
 2. Run dev
